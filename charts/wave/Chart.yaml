@@ -6,6 +6,6 @@ appVersion: v0.5.0
 keywords:
   - wave
   - kubernetes
-home: https://github.com/wave-k8s/wave
+home: https://github.com/gazataeon/wave
 sources:
-- https://github.com/wave-k8s/wave
+- https://github.com/gazataeon/wave
